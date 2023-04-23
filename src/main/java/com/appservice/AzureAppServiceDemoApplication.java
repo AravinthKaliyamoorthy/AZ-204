@@ -15,7 +15,7 @@ public class AzureAppServiceDemoApplication {
 	
 	@GetMapping("/")
 	public String index() {
-		return "Hello Everyone This is Aravinth...";
+		return "Hello Everyone This is Aravinth";
 	}
 
 }
